@@ -1,2 +1,2 @@
 # rsschool-cv
-https://solntse1904.github.io/rsschool-cv/cv
+https://solntse.github.io/rsschool-cv/cv
