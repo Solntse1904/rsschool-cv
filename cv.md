@@ -25,7 +25,7 @@ function multiply(a, b){
 ```
 
 ## Experience
-[Curriculum Vitae](github.com/Solntse1904/rsschool-cv/blob/gh-pages/cv.md)
+[Curriculum Vitae](https://solntse1904.github.io/rsschool-cv/cv)
 
 ## Education
 * Lysva Polytechnic College in the direction of Computer networks
